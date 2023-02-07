@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39354" started-at="2023-01-22T02:15:58Z" finished-at="2023-01-22T02:16:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39354" started-at="2023-01-22T02:15:58Z" finished-at="2023-01-22T02:16:38Z">
+      <class name="com.tcs.ExcelReadDP">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.tcs.ExcelReadDP@79698539]" name="browserlaunch" is-config="true" duration-ms="25886" started-at="2023-01-22T07:45:58Z" finished-at="2023-01-22T07:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.tcs.ExcelReadDP@79698539]" name="excelread" duration-ms="2976" started-at="2023-01-22T07:46:25Z" data-provider="testdata" finished-at="2023-01-22T07:46:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+daisyrubycath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65IQ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.tcs.ExcelReadDP@79698539]" name="excelread" duration-ms="2885" started-at="2023-01-22T07:46:28Z" data-provider="testdata" finished-at="2023-01-22T07:46:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+daisyrubycatharine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65I]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.tcs.ExcelReadDP@79698539]" name="excelread" duration-ms="2882" started-at="2023-01-22T07:46:31Z" data-provider="testdata" finished-at="2023-01-22T07:46:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+daisyrubycatharin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65I]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method status="PASS" signature="excelread(java.lang.String, java.lang.String)[pri:0, instance:com.tcs.ExcelReadDP@79698539]" name="excelread" duration-ms="3901" started-at="2023-01-22T07:46:34Z" data-provider="testdata" finished-at="2023-01-22T07:46:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[
+daisyrubycatharine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RP65IQ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+      </class> <!-- com.tcs.ExcelReadDP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
